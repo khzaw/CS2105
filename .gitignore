@@ -1,0 +1,7 @@
+*.class
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+._*
